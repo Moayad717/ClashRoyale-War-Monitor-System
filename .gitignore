@@ -1,0 +1,16 @@
+# Rust build artifacts
+backend/target/
+
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Build output
+frontend/dist/
+
+# Environment files
+.env
+.env.local
+
+# CSV data files
+backend/data/
